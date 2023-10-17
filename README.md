@@ -1,10 +1,10 @@
 <div align="center">
   <h3>Workshop</h3>
-  <h1>App Development Part 2</h1>
+  <h1>App Development Part 1</h1>
   <br />
-  <a href="https://github.com/developer-academy-unina/app-development-part-2/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/developer-academy-unina/app-development-part-1/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/developer-academy-unina/app-development-part-2/discussions">Ask a Question</a>
+  <a href="https://github.com/developer-academy-unina/app-development-part-1/discussions">Ask a Question</a>
   
 </div>
   <br />
@@ -30,7 +30,6 @@
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [How to](#how-to)
 - [Issues and Discussions](#issues-and-discussions)
 - [Support](#support)
 - [Authors & contributors](#authors--contributors)
@@ -43,24 +42,7 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
-
-<summary>Screenshots</summary>
-<br>
-
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
-
-<br />
+Moving from interface design to code basics, building together a sample app
 
 ## Getting Started
 
@@ -69,26 +51,16 @@
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/developer-academy-unina/app-development-part-2
+   git clone https://github.com/developer-academy-unina/app-development-part-1
    ```
 
 2. Open the ```.xcodeproj``` file
-
-### How to
-
-1. Do Some...
-
-   ```sh
-   git clone https://github.com/developer-academy-unina/app-development-part-2
-   ```
-
-2. ...
 
 <br />
 
 ## Issues and Discussions
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/app-development-part-2/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/app-development-part-2/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/app-development-part-1/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/app-development-part-1/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -103,8 +75,8 @@ Please try to create bug reports that are:
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Discussions](https://github.com/developer-academy-unina/app-development-part-2/discussions)
-- [GitHub issues](https://github.com/developer-academy-unina/app-development-part-2/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Discussions](https://github.com/developer-academy-unina/app-development-part-1/discussions)
+- [GitHub issues](https://github.com/developer-academy-unina/app-development-part-1/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact a Mentor for any other help
 
 <br />
@@ -113,7 +85,7 @@ Reach out to the maintainer at one of the following places:
 
 The original setup of this repository is by [Gianluca Orpello](https://github.com/gorpello).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/app-development-part-2/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/app-development-part-1/contributors).
 
 <br />
 
